@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/Maincontainer/Albums/Albums.jsx"],"names":["Albums"],"mappings":"wGAAA,2BAUeA,UARA,WACd,OACC","file":"static/js/5.3a521981.chunk.js","sourcesContent":["import React from 'react';\r\n\r\nconst Albums = () => {\r\n\treturn (\r\n\t\t<div>\r\n\t\t\tAlbums\r\n\t\t</div>\r\n\t);\r\n}\r\n\r\nexport default Albums;"],"sourceRoot":""}

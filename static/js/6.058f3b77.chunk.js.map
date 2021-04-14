@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/Maincontainer/Groups/Groups.jsx"],"names":["Groups"],"mappings":"wGAAA,2BAUeA,UARA,WACd,OACC","file":"static/js/6.058f3b77.chunk.js","sourcesContent":["import React from 'react';\r\n\r\nconst Groups = () => {\r\n\treturn (\r\n\t\t<div>\r\n\t\t\tGroups\r\n\t\t</div>\r\n\t);\r\n}\r\n\r\nexport default Groups;"],"sourceRoot":""}
